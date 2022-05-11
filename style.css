@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .logo span{
     position: relative;
     top: 7px;
@@ -5,3 +10,13 @@
 .font {
     font-weight: 500;
 }
+.image-intro {
+    width: 50rem;
+    position: relative;
+    right: 19rem;
+}
+.me-5{
+    margin-right: 30rem !important;
+    margin-top: 7rem !important;
+}
+
