@@ -9,6 +9,8 @@ body {
 }
 .logo img {
     width: 5rem;
+    position: absolute;
+    top: -1rem;
 }
 p {
     font-family: "Roboto";
@@ -31,11 +33,14 @@ p {
 .features {
     font-size: 30px;
     margin-top: 10rem;
+    margin-right: 4rem;
 }
 .image-card {
     width: 5rem;
     position: relative;
-    left: 6rem;
+    left: 6.5rem;
     margin-top: 2rem;
 }
-
+.leader {
+    margin-left: 24rem;
+}
